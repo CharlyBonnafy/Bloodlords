@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/active-cases/active-cases/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/notes/active-cases/active-cases/"}
 ---
 
 # Master Mystery 
